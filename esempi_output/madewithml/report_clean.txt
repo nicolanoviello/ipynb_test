@@ -1,0 +1,96 @@
+“—————————“
+b9aea43f2889e7fbd018aa46039f68c7774c6121
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+608   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+1     F821 undefined name 'get_ipython'
+421   W291 trailing whitespace
+52    W293 blank line contains whitespace
+“—————————“
+“—————————“
+ee1b7d0a0cfc728663d3b5732b2e4ba8aff8fafc
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+608   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+1     F821 undefined name 'get_ipython'
+421   W291 trailing whitespace
+52    W293 blank line contains whitespace
+“—————————“
+“—————————“
+423badcbd984b793b5f66408f8daf36f67ab8c85
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+608   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+8     F821 undefined name 'get_ipython'
+421   W291 trailing whitespace
+52    W293 blank line contains whitespace
+“—————————“
+“—————————“
+1ce33ef220a33b14b6d5a8a1bf4f938c5c3eb2de
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+608   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+8     F821 undefined name 'get_ipython'
+421   W291 trailing whitespace
+52    W293 blank line contains whitespace
+“—————————“
+“—————————“
+b7fc2a9cb1f5ffe4056d5ce3aee4bc334ce15fbc
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+608   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+8     F821 undefined name 'get_ipython'
+421   W291 trailing whitespace
+52    W293 blank line contains whitespace
+“—————————“
+“—————————“
+a84f2e100caa6a183a5fc201022f4a0624d547ec
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+604   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+8     F821 undefined name 'get_ipython'
+417   W291 trailing whitespace
+52    W293 blank line contains whitespace
+“—————————“
+“—————————“
+9ca1434d7eb0fe962e3b5c7470eff5e57b0e2bc4
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+607   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+8     F821 undefined name 'get_ipython'
+418   W291 trailing whitespace
+53    W293 blank line contains whitespace
+“—————————“
+“—————————“
+da8d76375acd361fb7a62b42c7074b4cff699adb
+53    E128 continuation line under-indented for visual indent
+9     E225 missing whitespace around operator
+102   E231 missing whitespace after ','
+135   E261 at least two spaces before inline comment
+607   E501 line too long (143 > 79 characters)
+2     E703 statement ends with a semicolon
+8     F821 undefined name 'get_ipython'
+418   W291 trailing whitespace
+53    W293 blank line contains whitespace
+“—————————“
